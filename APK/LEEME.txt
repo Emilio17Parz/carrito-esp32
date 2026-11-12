@@ -1,0 +1,2 @@
+Esta carpeta recibira Carrito_4WD_ESP32.apk despues de ejecutar Flutter_Carrito_4WD/Generar-APK.ps1.
+El APK no viene precompilado: requiere Flutter SDK y Android SDK en tu computadora.
